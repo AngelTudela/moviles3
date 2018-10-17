@@ -3,7 +3,7 @@ package pe.com.csmm.aplicacionclientecsmm.Beans;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 /**
- * Created by RICHARD on 25/08/2016.
+ * Segunda modificacion del dia
  */
 // modificado el 2018/10/10
 @JsonIgnoreProperties(ignoreUnknown = true)
